@@ -13391,11 +13391,6 @@ packages:
       execa: 5.1.1
     dev: true
 
-lockfileVersion: 3.0
-packageManager: pnpm@8.14.3
-overrides:
-  pnpm: ^9.1.1
-package-manager-strict: false
 
   /detect-port@1.5.1:
     resolution: {integrity: sha512-aBzdj76lueB6uUst5iAs7+0H/oOjqI5D16XUWxlWMIMROhcM0rfsNVk93zTngq1dDNpoXRr++Sus7ETAExppAQ==}
